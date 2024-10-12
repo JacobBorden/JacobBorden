@@ -21,10 +21,10 @@ Working on a neural network project to push the boundaries of machine learning a
 
 ## 🌐 Connect with Me
 
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/jacob-borden-8a1823237) <!-- Replace '#' with your actual LinkedIn URL -->
-- **Medium**: [Your Medium Profile](https://medium.com/@jacob.n.borden)
-- **Instagram**: [Your Instagram Profile](#)
-- **TikTok**: [Your TikTok Profile](#)
+- **LinkedIn**: [](www.linkedin.com/in/jacob-borden-8a1823237) <!-- Replace '#' with your actual LinkedIn URL -->
+- **Medium**: [@jacob.n.borden](https://medium.com/@jacob.n.borden)
+- **Instagram**: [@jacob.n.borden](https://instagram.com/jacob.n.borden)
+- **TikTok**: [@jacob.n.borden](http://tiktok.com/jacob.n.borden)
 
 ## 🎙️ Podcast
 
