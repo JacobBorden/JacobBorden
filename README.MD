@@ -21,8 +21,8 @@ Working on a neural network project to push the boundaries of machine learning a
 
 ## 🌐 Connect with Me
 
-- **LinkedIn**: [Your LinkedIn Profile](#) <!-- Replace '#' with your actual LinkedIn URL -->
-- **Medium**: [Your Medium Profile](#)
+- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/jacob-borden-8a1823237) <!-- Replace '#' with your actual LinkedIn URL -->
+- **Medium**: [Your Medium Profile](https://medium.com/@jacob.n.borden)
 - **Instagram**: [Your Instagram Profile](#)
 - **TikTok**: [Your TikTok Profile](#)
 
@@ -39,9 +39,9 @@ Check out the **'Doctrine Decoded'** podcast where we explore the fusion of tech
 Feel free to explore my repositories and reach out if you're interested in collaboration or just want to talk about tech, strategy, or creativity.
 
 <!-- Optional: Add a visitor count badge -->
-![Visitor Count](https://profile-counter.glitch.me/{YourUsername}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{JacobBorden}/count.svg)
 
 <!-- Optional: Add GitHub stats card -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_border=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JacobBorden&show_icons=true&hide_border=true)
 
 <!-- Replace 'YourUsername' with your actual GitHub username -->
