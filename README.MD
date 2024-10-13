@@ -4,19 +4,19 @@ I'm a tech strategist and programmer who thrives at the intersection of code, st
 
 ## 🔭 Projects I'm Currently Working On
 
-### 1. Matrix Library
+### 1. [Matrix Library](https://github.com/JacobBorden/Matrix)
 A high-performance C++ library for advanced matrix computations, optimized for speed and efficiency.
 
-### 2. Networking Library
+### 2. [Networking Library](https://github.com/JacobBorden/NetworkingLibrary)
 Developing a robust networking library to facilitate efficient and secure communication between systems.
 
-### 3. Distributed File Server
+### 3. [Distributed File Server](https://github.com/JacobBorden/SimpliDFS)
 Building a scalable distributed file server designed for reliability and high availability across multiple nodes.
 
-### 4. Image Manipulation Tools
+### 4. [Image Manipulation Tools](https://github.com/JacobBorden/Bitmap)
 Creating innovative tools for advanced image processing and manipulation, leveraging cutting-edge algorithms.
 
-### 5. Neural Network Development
+### 5. [Neural Network Development](https://github.com/JacobBorden/Neuro-Net-DLL)
 Working on a neural network project to push the boundaries of machine learning and artificial intelligence.
 
 ## 🌐 Connect with Me
